@@ -1,4 +1,7 @@
 # ConvNetSwift
+This fork is for learning machine learning purpose and might not be working correctly.
+Original repository is [alexsons/ConvNetSwift](https://github.com/alexsosn/ConvNetSwift).
+
 Swift port of [ConvnetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) - a library for training Deep Learning models (mainly Neural Networks).
 
 Updated to Swift 3.
